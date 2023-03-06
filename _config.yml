@@ -290,3 +290,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# ------------------------ 위는 기본설정에 있던거 아래는 추가해본거
+
+future: true
