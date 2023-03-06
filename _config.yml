@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "이종훈 (Lee Jong Hoon)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "miscellaneous thoughts, coding, runner."
+  bio              : "miscellaneous thoughts,coding,runner."
   location         : "Seoul Korea"
   email            :
   links:
